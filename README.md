@@ -11,7 +11,7 @@ Building web applications, AI-powered systems, and interactive digital experienc
 <a href="https://github.com/vedantkalkundri-ops">
   <img src="https://img.shields.io/badge/GitHub-vedantkalkundri--ops-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/vedant-kalkundri-7b316a341">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -29,9 +29,9 @@ My work ranges from full-stack web applications and data-analysis platforms to L
 
 ```text
 Web Development     →  React · JavaScript · Python · Flask · Node.js
-Artificial Intel.    →  Gemini · Generative AI · AI-powered applications
-Cybersecurity        →  Linux · Web Security · Security Tools
-Creative Web         →  Three.js · WebGL · GSAP · Interactive UI
+Artificial Intel.   →  Gemini · Generative AI · AI-powered applications
+Cybersecurity       →  Linux · Web Security · Security Tools
+Creative Web        →  Three.js · WebGL · GSAP · Interactive UI
 ```
 
 Currently focused on becoming a stronger **full-stack developer** while exploring AI and cybersecurity.
@@ -110,7 +110,6 @@ A high-performance personal portfolio built around interactive 3D experiences, c
 
 [Live Website](https://vedantkalkundriportfolio.vercel.app/) · [Repository](https://github.com/vedantkalkundri-ops/Portfolio)
 
-
 ---
 
 ## Tech Stack
@@ -138,7 +137,6 @@ A high-performance personal portfolio built around interactive 3D experiences, c
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
 
 ---
 
@@ -241,8 +239,8 @@ If you have an idea worth building, let's turn it into something real.
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="[https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/vedant-kalkundri-7b316a341)" />
+<a href="https://www.linkedin.com/in/vedant-kalkundri-7b316a341">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
