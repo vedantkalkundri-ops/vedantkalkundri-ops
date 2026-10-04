@@ -217,16 +217,6 @@ I believe the best way to learn technology is to **build with it**.
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantkalkundri-ops&hide_border=true&theme=github-compact" />
-
-</div>
-
----
-
 ## Beyond Code
 
 Technology isn't the only thing I enjoy.
