@@ -40,6 +40,32 @@ Currently focused on becoming a stronger **full-stack developer** while explorin
 
 ## Featured Projects
 
+## Featured Projects
+
+### SYLVAH GROUP
+
+**Real Estate Management & Property Platform**
+
+A real estate platform focused on property showcasing, enquiry management, and administrative operations, providing a structured digital experience for managing and presenting property information.
+
+**HTML · CSS · JavaScript · PHP · SQL**
+
+[Live Website](http://sylvahgroup.com/)
+
+---
+
+### Smart Campus Navigation & Utility Bot
+
+**AI-Powered Campus Assistance System**
+
+An AI-powered campus assistance system designed to help students and visitors navigate large campuses with ease. It combines an intelligent chatbot, interactive campus navigation, and utility-status information to provide quick access to directions, facilities, and essential campus information.
+
+**Python · React · AI/ML · Maps · Chatbot**
+
+[Repository](https://github.com/vedantkalkundri-ops/Smart_Campus_Navigation_Utility_Bot)
+
+---
+
 ### AURA OS
 
 **AI-Powered Local Linux Assistant**
@@ -49,16 +75,6 @@ An AI-powered Linux desktop assistant that bridges Google Gemini with system-lev
 **React · Node.js · Gemini · Linux · WebSockets · Bash**
 
 [Repository](https://github.com/sanchi0/AURAOS/tree/vedant-ops)
-
----
-
-### CyberSafe
-
-**Gamified Cybersecurity Learning Platform**
-
-An interactive cybersecurity platform designed to make security learning more practical through challenges and simulations covering XSS, SQL Injection, Phishing, Clickjacking, RCE, Privilege Escalation, and other common web-security concepts.
-
-**JavaScript · HTML · CSS · Browser APIs**
 
 ---
 
@@ -74,31 +90,7 @@ A web-based data analysis platform that allows users to upload Excel and CSV dat
 
 ---
 
-### Interactive 3D Portfolio
-
-**Immersive Developer Portfolio**
-
-A high-performance portfolio built around interactive 3D experiences, custom WebGL shaders, physics-based elements, GSAP animations, project showcases, and responsive interfaces.
-
-**React · Three.js · WebGL · GSAP · Tailwind CSS**
-
-[Repository](https://github.com/vedantkalkundri-ops/Portfolio)
-
----
-
-### SYLVAH GROUP
-
-**Real Estate Management & Property Platform**
-
-A real estate platform focused on property showcasing, enquiry management, and administrative operations, providing a structured digital experience for managing and presenting property information.
-
-**HTML · CSS · JavaScript · PHP · SQL**
-
-[Live Website](http://sylvahgroup.com/)
-
----
-
-### Anusha Inamdar Portfolio
+### Portfolio UI — Anusha Inamdar
 
 **SEO Content Writer & Strategist Portfolio**
 
@@ -107,6 +99,19 @@ A modern personal portfolio featuring interactive visual elements, animated back
 **Next.js · React · Framer Motion · Three.js · CSS**
 
 [Live Website](https://anushainamdarportfolio.vercel.app/) · [Repository](https://github.com/vedantkalkundri-ops/portfolio-ui)
+
+---
+
+### Interactive 3D Portfolio
+
+**Immersive Developer Portfolio**
+
+A high-performance personal portfolio built around interactive 3D experiences, custom WebGL shaders, physics-based elements, GSAP animations, project showcases, and responsive interfaces.
+
+**React · Three.js · WebGL · GSAP · Tailwind CSS**
+
+[Live Website](https://vedantkalkundriportfolio.vercel.app/) · [Repository](https://github.com/vedantkalkundri-ops/Portfolio)
+
 
 ---
 
