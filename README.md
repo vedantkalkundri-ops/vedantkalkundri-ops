@@ -112,8 +112,6 @@ A modern personal portfolio featuring interactive visual elements, animated back
 
 ## Tech Stack
 
-<div align="center">
-
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql" />
@@ -138,7 +136,6 @@ A modern personal portfolio featuring interactive visual elements, animated back
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
-</div>
 
 ---
 
