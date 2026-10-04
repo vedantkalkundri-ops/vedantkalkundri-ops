@@ -40,8 +40,6 @@ Currently focused on becoming a stronger **full-stack developer** while explorin
 
 ## Featured Projects
 
-## Featured Projects
-
 ### SYLVAH GROUP
 
 **Real Estate Management & Property Platform**
