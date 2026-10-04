@@ -242,7 +242,7 @@ If you have an idea worth building, let's turn it into something real.
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="[https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/vedant-kalkundri-7b316a341)" />
 </a>
 
 </div>
